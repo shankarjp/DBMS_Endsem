@@ -1,0 +1,50 @@
+<!-- Question 1 -->
+<EmployeeDetails>
+    <Employee>
+        <EmpNo>1</EmpNo>
+        <EName>Name</EName>
+        <Job>Job</Job>
+        <WorkingHours>12</WorkingHours>
+        <Dept>1</Dept>
+        <Salary>1000000</Salary>
+    </Employee>
+</EmployeeDetails>
+
+<!-- Question 2 -->
+<StudentDetails>
+	<Student>
+		<STUID>1</STUID>
+		<SName>Name</SName>
+		<Dept>Dept</Dept>
+		<Subject>Subject</Subject>
+		<Marks>100</Marks>
+	</Student>
+</StudentDetails>
+
+<!-- Question 3 -->
+<FlightDetails>
+	<Flight>
+		<FlNo>1</FlNo>
+		<FlName>Flight</FName>
+		<PilotName>Pilot</PilotName>
+		<From>Source</From>
+		<To>Destination</To>
+		<Date>2022-11-11</Date>
+		<DepartsTime>13:20</DepartsTime>
+		<ArrivalTime>13:22</ArrivalTime>
+		<Price>20</Price>
+	</Flight>
+</FlightDetails>
+
+<!-- Question 4 -->
+<EmployeeDetails>
+    <Employee>
+        <EID>1</EID>
+        <EName>Name</EName>
+        <Project>Project</Project>
+        <Job>Job</Job>
+        <Dept>Dept</Dept>
+        <DeptNo>1</DeptNo>
+        <Salary>10000000</Salary>
+    </Employee>
+</EmployeeDetails>
